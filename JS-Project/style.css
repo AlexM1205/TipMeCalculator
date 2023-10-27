@@ -1,0 +1,19 @@
+#results {
+    display:none;
+}
+body{
+    background-color: rgba(25, 66, 156, 0.685);
+    color: rgb(252, 252, 249);
+    display: grid;
+    place-items: center;
+}
+h1{
+    font-size: 8em;
+}
+span, input,label{
+    margin: 1.5rem 0;
+    font-size: 1.8rem;
+}
+#results h5, #results span, #results input{
+    font-size: 1.8rem;
+}
